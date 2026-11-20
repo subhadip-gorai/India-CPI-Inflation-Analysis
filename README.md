@@ -32,7 +32,8 @@ The project uses data from January 2013 to May 2023 and applies Excel data-clean
 India-CPI-Inflation-Analysis/
 │
 ├── Images/
-│    ├── dashboard.png
+│    ├── 1.dashboard_part_1.png
+│    ├── 2.dashboard_part_2.png
 │    ├── cpi_trend.png
 │    ├── food_inflation.png
 │    └── oil_cpi_correlation.png
